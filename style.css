@@ -1,0 +1,46 @@
+
+body{
+    
+    background-image: url("download.jfif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+caption {
+    
+    text-transform: uppercase;
+    font-family: 'Oleo Script', cursive;
+    color : yellowgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+table { 
+  width: 100px; 
+  border-collapse: collapse; 
+  margin:50px auto;
+  }
+
+tr {
+    background : skyblue;
+}
+
+th { 
+  background: black; 
+  color: white; 
+  font-weight: bold; 
+  font-family: sans-serif;
+  }
+
+td, th { 
+  padding: 5px; 
+  border: 2px solid black; 
+  text-align: center; 
+  font-size: 15px;
+  font-family: sans-serif;
+  }
+
+h5 {
+  text-align: right; 
+  font-family: Helvetica;
+  font-size: 20px;
